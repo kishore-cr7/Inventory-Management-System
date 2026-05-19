@@ -28,7 +28,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## 📌 Project Overview
-This project provides a GUI-based inventory management system for a supermarket use case. It includes role-based login, product and category management, seller management, and bill generation using Java Swing and Oracle Database.
+This project provides a GUI-based inventory management system for a supermarket use case. It includes role-based login, product and category management, seller management, and bill generation using data persisted in Oracle tables.
 
 ## 🧰 Tech Stack
 - **Language:** Java
